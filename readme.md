@@ -1,8 +1,10 @@
 # Crush Your Competition
 
-# ![badge](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![badge](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
-![Projec-image](./view.png)
+[Link of deploy live project](https://crushcompetition04.netlify.app/)
+
+![LCO](./view.pnggit)
 
 # What I learned from this project-04
 
