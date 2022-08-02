@@ -4,7 +4,7 @@
 
 [Link of deploy live project](https://crushcompetition04.netlify.app/)
 
-![LCO](./view.pnggit)
+![LCO](./view.png)
 
 # What I learned from this project-04
 
